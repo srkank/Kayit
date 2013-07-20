@@ -1,0 +1,7 @@
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\obj\x86\Debug\ilk.Form1.resources
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\obj\x86\Debug\ilk.Properties.Resources.resources
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\obj\x86\Debug\ilk.csproj.GenerateResource.Cache
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\bin\Debug\ilk.exe
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\bin\Debug\ilk.pdb
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\obj\x86\Debug\ilk.exe
+c:\users\serkan\documents\visual studio 2010\Projects\ilk\ilk\obj\x86\Debug\ilk.pdb
